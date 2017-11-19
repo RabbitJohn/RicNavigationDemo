@@ -1,5 +1,6 @@
 # RicBannerView
 ###Effect
+
 ![image](https://github.com/zLihuan/RicNavigationDemo/blob/master/DEMO.gif)
 
 ###NavigationBar
