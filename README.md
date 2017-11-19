@@ -1,9 +1,9 @@
 # RicBannerView
-###Effect
+### Effect
 
 ![image](https://github.com/zLihuan/RicNavigationDemo/blob/master/DEMO.gif)
 
-###NavigationBar
+### NavigationBar
     #import <UIKit/UIKit.h>
 
     @interface RicNavigationBar : UINavigationBar
@@ -133,7 +133,7 @@
 
     @end
     
-###BaseViewController
+### BaseViewController
 
     @interface RicBaseViewController ()
     /**
@@ -153,7 +153,7 @@
     }
     @end
     
-###HomeViewController
+### HomeViewController
 
     - (void)viewDidLoad {
     [super viewDidLoad];
